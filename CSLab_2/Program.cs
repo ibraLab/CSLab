@@ -15,7 +15,7 @@ namespace CSLab_2
             int x, y;
             bool result=false;
 
-            Console.Write("Введите значение x: ");
+            //Console.Write("Введите значение x: ");
             x = Convert.ToInt32(Console.ReadLine());
 
             Console.Write("Введите значение y: ");
